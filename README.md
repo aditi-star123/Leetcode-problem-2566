@@ -1,3 +1,6 @@
+Today I solved a leetcode problem involving greedy approach 
+#greedy
+Below is the question's description:
 # Leetcode-problem-2566
 desciption:
 You are given an integer num. You know that Bob will sneakily remap one of the 10 possible digits (0 to 9) to another digit.
@@ -12,11 +15,3 @@ Bob can remap different digits for obtaining minimum and maximum values respecti
 The resulting number after remapping can contain leading zeroes.
  
 
-Example 1:
-
-Input: num = 11891
-Output: 99009
-Explanation: 
-To achieve the maximum value, Bob can remap the digit 1 to the digit 9 to yield 99899.
-To achieve the minimum value, Bob can remap the digit 1 to the digit 0, yielding 890.
-The difference between these two numbers is 99009.
